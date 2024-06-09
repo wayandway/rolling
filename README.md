@@ -117,26 +117,49 @@ src % tree -d
 
 ## 4. 페이지별 기능
 ### 메인 & 롤링페이퍼 리스트
-<img src="https://github.com/wayandway/rolling/assets/64190056/34cde7ac-a6a1-48f1-a96d-45ce49109d50" width=300 />
+<img src="https://github.com/wayandway/rolling/assets/64190056/9ffd20c2-c8f7-4cac-865e-dad5c5f44f8a" width=300 />
 
 - 서비스 메인 화면으로, 서비스 설명 및 롤링페이퍼 리스트를 구경할 수 있습니다.
 
-
-
-
-
+<br/>
 
 ### 롤링페이퍼 만들기
+<img src="https://github.com/wayandway/rolling/assets/64190056/02de1774-a6a4-40f8-aeba-1a5f22c372af" width=300 />
 
+- 롤링페이퍼를 생성할 수 있으며, 이름을 필수로 입력하면 롤링페이퍼 배경 이미지를 선택할 수 있습니다.
 
+<br/>
 
+### 메시지 남기기
+<img src="https://github.com/wayandway/rolling/assets/64190056/5efffa83-7cf0-4fb7-aeb7-e56acc13cde2" width=300 />
 
-### 메시지 카드 만들기
+- 롤링페이퍼에 메시지를 작성할 수 있으며, 이름과 메시지 글을 필수로 입력합니다.
+- 프로필 이미지와 폰트를 설정할 수 있습니다.
+
+<br/>
+
 
 ### 롤링페이퍼 편집
+<img src="https://github.com/wayandway/rolling/assets/64190056/49d4e7b4-1449-4746-9382-b4537a5a49c2" width=300 />
+
+- 메시지 카드, 롤링페이퍼 페이지를 삭제할 수 있습니다.
+
+
+<br/>
+
+### 이모지 추가 & 카카오톡 공유 
+<img src="https://github.com/wayandway/rolling/assets/64190056/a0950eeb-c855-48f0-8e47-761687ab29db" width=300 />
+
+- 이모지 피커를 통해 롤링페이퍼에 이모지를 추가할 수 있습니다.
+- 카카오톡 계정과 연동해 롤링페이퍼 링크를 공유할 수 있습니다.
+
+<br/>
 
 ### 다크 모드
+<img src="https://github.com/wayandway/rolling/assets/64190056/378592a7-ed49-4f4d-a2db-af126aee3d68" width=300 />
 
+- 헤더의 아이콘으로 다크/라이트 모드를 토글할 수 있습니다.
+- 설정한 모드는 로컬 스토리지에 저장되어, 브라우저에 다시 접속해도 설정한 모드가 유지됩니다.
 
 
 
