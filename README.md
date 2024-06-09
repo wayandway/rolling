@@ -131,7 +131,8 @@ src % tree -d
 <br/>
 
 ### 메시지 남기기
-<img src="https://github.com/wayandway/rolling/assets/64190056/5efffa83-7cf0-4fb7-aeb7-e56acc13cde2" width=300 />
+<img src="https://github.com/wayandway/rolling/assets/64190056/936ee81a-e258-4f66-8226-ef05ae9a39e3" width=300 />
+
 
 - 롤링페이퍼에 메시지를 작성할 수 있으며, 이름과 메시지 글을 필수로 입력합니다.
 - 프로필 이미지와 폰트를 설정할 수 있습니다.
@@ -140,7 +141,9 @@ src % tree -d
 
 
 ### 롤링페이퍼 편집
-<img src="https://github.com/wayandway/rolling/assets/64190056/49d4e7b4-1449-4746-9382-b4537a5a49c2" width=300 />
+<img src="https://github.com/wayandway/rolling/assets/64190056/7a0a77e6-a133-4ddc-b56b-56cf6c61fa28" width=300 />
+
+
 
 - 메시지 카드, 롤링페이퍼 페이지를 삭제할 수 있습니다.
 
@@ -148,7 +151,7 @@ src % tree -d
 <br/>
 
 ### 이모지 추가 & 카카오톡 공유 
-<img src="https://github.com/wayandway/rolling/assets/64190056/a0950eeb-c855-48f0-8e47-761687ab29db" width=300 />
+<img src="https://github.com/wayandway/rolling/assets/64190056/0090b19e-1fc6-4d9d-bef0-6ea93f241342" width=300 />
 
 - 이모지 피커를 통해 롤링페이퍼에 이모지를 추가할 수 있습니다.
 - 카카오톡 계정과 연동해 롤링페이퍼 링크를 공유할 수 있습니다.
@@ -156,7 +159,7 @@ src % tree -d
 <br/>
 
 ### 다크 모드
-<img src="https://github.com/wayandway/rolling/assets/64190056/378592a7-ed49-4f4d-a2db-af126aee3d68" width=300 />
+<img src="https://github.com/wayandway/rolling/assets/64190056/2fec9dd7-5af0-4866-a112-9e452eca0896" width=300 />
 
 - 헤더의 아이콘으로 다크/라이트 모드를 토글할 수 있습니다.
 - 설정한 모드는 로컬 스토리지에 저장되어, 브라우저에 다시 접속해도 설정한 모드가 유지됩니다.
